@@ -14,3 +14,9 @@ hesaplamaları, kahraman ve canavar bonusları gibi unsurlar
 kullanılarak bir savaş simülasyonu gerçekleştirilmiştir. Projenin 
 sonucunda, savaşın tüm adımları kaydedilmiş ve görselleştirme 
 yapılmıştır.
+
+2-Kart oyunu ve Savaş Mekanikleri
+
+
+Bu projede ise java'da bir kart oyunu oluşturdum. Oyuncu ve Bilgisayar arasında geçen
+bu oyunda oyuncu ve bilgisayar kartları karşılaştırılıp hesaplamalar yapılarak savaş simüle edilmektedir.
