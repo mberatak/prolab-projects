@@ -1,0 +1,12 @@
+Tur: 0
+İnsan Mevcut Birim Sayısı: 4
+Insan Kaybedilen Birim Sayısı: 0
+Ork Mevcut Birim Sayısı: 4
+Ork Kaybedilen Birim Sayısı: 0
+----------------------------
+Tur: 1
+İnsan Mevcut Birim Sayısı: 4
+Insan Kaybedilen Birim Sayısı: 4
+Ork Mevcut Birim Sayısı: 4
+Ork Kaybedilen Birim Sayısı: 4
+----------------------------
