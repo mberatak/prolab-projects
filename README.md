@@ -18,5 +18,17 @@ yapılmıştır.
 2-Kart oyunu ve Savaş Mekanikleri
 
 
-Bu projede ise java'da bir kart oyunu oluşturdum. Oyuncu ve Bilgisayar arasında geçen
+Bu projede  java'da bir kart oyunu tasarladım. Oyuncu ve Bilgisayar arasında geçen
 bu oyunda oyuncu ve bilgisayar kartları karşılaştırılıp hesaplamalar yapılarak savaş simüle edilmektedir.
+
+
+3-Yazar İşbirliği Ağı Analizi ve Görselleştirilmesi
+
+Bu proje akademik bir veri seti kullanarak yazarlar
+ arasındaki is¸ birligi iliskilerini modelleyen bir graf yapısı
+ olusturmayı ve bu graf uzerinden cesitli veri yapısı ve algoritma konseptlerini uygulamayı amaclamaktadır. 
+ Ayrıca proje sonunda, web arayuzu ile birlikte analiz sonucları etkilesimli
+olarak sunulmaktadır.
+
+
+
