@@ -54,5 +54,5 @@ Projeyi Python dili kullanarak geliştirdim ve görselleştirme için Dash frame
 
 
 
-[Detaylı Bilgi için rapor](./PROLAB1_3/PROLAB1_2%20rapor.pdf)
+
 
