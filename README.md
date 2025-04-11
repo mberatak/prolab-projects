@@ -3,28 +3,25 @@
 
 
 
-**1-Strateji Oyunu ve Savaş Mekanikleri**
-
-Bu projede, C programlama dili kullanılarak İnsan İmparatorluğu ve Ork Lejyonu olmak üzere iki farklı ırkın karşı karşıya geldiği bir strateji oyunu simülasyonu geliştirdim. Oyunun temel amacı, belirli birimler, kahramanlar ve canavarların yer aldığı iki ordunun savaşını simüle ederek saldırı ve savunma mekaniklerini test etmektir.
-
+**1-Strategy Game and Battle Mechanics**
+In this project, I developed a strategy game simulation in C, where the Human Empire and Orc Legion face off. The goal is to simulate battles between units, heroes, and creatures, testing attack and defense mechanics.
 
 
-**2-Kart oyunu ve Savaş Mekanikleri**
+
+
+**2-Card Game and Battle Mechanics**
 
 ![](./PROLAB1_2/savaş.png)
 
-Bu projede, Java programlama dili kullanılarak bir kart oyunu tasarladım. Oyun, bir oyuncu ve bir bilgisayar arasında geçen strateji tabanlı bir savaş simülasyonunu içermektedir. Oyuncular belirli sayıda karta sahiptir ve her kartın saldırı gücü, savunma puanı ve özel yetenekleri gibi belirleyici özellikleri bulunmaktadır.
+In this Java-based project, I created a strategy card game between a player and the computer. Each card has unique attack power, defense points, and special abilities.
 
 [Detaylı Bilgi için rapor](./PROLAB1_2/PROLAB1_2%20rapor.pdf)
 
 
-**3-Yazar İşbirliği Ağı Analizi ve Görselleştirilmesi**
+3-Author Collaboration Network Analysis and Visualization
 
 ![](./PROLAB1_3/gorsel.png)
-
-Bu projede, akademik bir veri seti kullanarak yazarlar arasındaki iş birliği ilişkilerini modelleyen bir grafik yapısı oluşturdum. Projenin amacı, yazarların iş birliği ağlarını analiz etmek için grafik veri yapısını kullanmak ve bu yapı üzerinde çeşitli veri yapıları ile algoritmalar uygulamaktır.
-
-Projeyi Python dili kullanarak geliştirdim ve görselleştirme için Dash framework'ünü tercih ettim. 
+Using a real academic dataset, I have built a graph model in Python to represent collaboration between authors. I analyzed the network with algorithms and visualized it using the Dash framework.
 
 
 
